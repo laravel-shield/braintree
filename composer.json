@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Shield\\Skeleton\\": "src/"
+            "Shield\\Braintree\\": "src/"
         }
     },
     "autoload-dev": {
